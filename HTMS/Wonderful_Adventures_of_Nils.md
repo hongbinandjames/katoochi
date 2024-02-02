@@ -4,7 +4,7 @@ Wonderful Adventures of Nils
 
 **Author:** *James Liu* &nbsp;&nbsp;&nbsp;&nbsp; **Date:** *November 2023*
 
-The Wonderful Adventures of Nils is a captivating book that contains many fascinating stories. It is perfect for         
+The Wonderful Adventures of Nils is a captivating book that contains many fascinating stories. It is perfect for 
 someone who loves a light-hearted and humorous read. The book is also meant to teach children about the geography of 
 Sweden, which is where the story takes place. The novel starts off with the main character, Nils Holgersson, being left 
 home alone to memorize Bible verses. Nils is a rebellious teen whose favorite pastime is messing with the animals on 
