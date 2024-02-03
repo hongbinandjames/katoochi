@@ -30,3 +30,7 @@ to even touch them.
 Can Nils still manage to get back home in human form? The adventures seem endless in this book, with each new one 
 bringing a whole new story.
 
+## References
+1. [Wonderful Adventures of Nils](https://digital.library.upenn.edu/women/lagerlof/nils/nils.html)
+2. [Wikipedia](https://en.wikipedia.org/wiki/The_Wonderful_Adventures_of_Nils)
+
