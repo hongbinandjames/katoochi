@@ -14,10 +14,9 @@ silver spoon, and a gold penny. Nils agrees, but at the last second, he tries to
 However, Nils feels a stinging in his ears and instantly collapses. When he wakes up again, he finds that he has been 
 turned into an elf! Miraculously, Nils also finds out that he can understand and talk to animals. While this is 
 happening, wild geese are flying over the farm and a white gander wants to join them. Nils sees this and tries to 
-prevent the gander from taking flight by jumping on the bird, as it would be a big blow to the family if a goose left. 
-He is too small and little to have any effect on the goose, so he is forced to join the flock. At first, Akka 
-(The leader of the geese) seems unhappy to have the outsiders join her, but the geese are eventually unbothered by 
-them. Nils proves to become useful when he saves Akka from Smirre, a fox who hunts the geese.
+prevent the gander from taking flight by jumping on the bird, as it would be a big blow to his family if a goose left. 
+He is too small and little to have any effect on the goose, so he is forced to join the flock. At first, Akka, the leader of the geese, seems unhappy to have the outsiders join her, but the geese are eventually unbothered by 
+them. Nils proves to become useful and earns his respect when he saves Akka from Smirre, a fox who hunts the geese.
 
 Thus, Nils’ adventures begin. As the flock travels the country, they stop at multiple provinces for food and rest. At 
 each of these locations, Nils partakes in interesting quests around the area. These include saving a castle from rats, 
