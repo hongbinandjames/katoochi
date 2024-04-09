@@ -1,5 +1,7 @@
+# House of the Scorpion
+*Science Fiction by Nancy Farmer*
 
-Student: James Liu
+Author: James Liu
 
 Teacher: 
 
@@ -10,9 +12,6 @@ Character: Tam Lin
 Object: Flashlight
 
 Background Info: In the House of the Scorpion, Tam Lin was chosen as Matt’s bodyguard. Tam Lin eventually became one of the closest people to Matt.
-
-# House of the Scorpion
-*Science Fiction by Nancy Farmer*
 
 
 ## Reasoning
