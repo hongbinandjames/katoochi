@@ -3,9 +3,12 @@
 
 Author: James Liu
 
-Teacher: 
+Teacher: Lindsay Hoots
 
-7 th Period AC Reading
+7th Period AC Reading
+
+About this project:
+My class was asked to choose an object that represented a character in the book, the House of the Scorpion. We were required to make the object and write an essay on how the object represents the character we chose.
 
 Character: Tam Lin
 
