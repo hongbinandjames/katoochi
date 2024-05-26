@@ -1,8 +1,1 @@
-
-$$
-2a \div b^2 = 32
-$$
-
-$$
-a = 4
-$$
+# Rotations Challenge Problem #
