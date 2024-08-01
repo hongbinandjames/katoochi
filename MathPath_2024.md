@@ -3,5 +3,4 @@ Theorem: (Invariance Principle) All non-accelerating observers agree on the laws
 
 Creation: Light clock, a device with a lighgt bulb, a mirror, and a detector that detects when light reaches it. The distance between the light bulb and the mirror is 3 meters, and the light travels a total distance of 6 meters when it reaches the detector.
 
-
-
+Thought experiment: Imagine two astronauts, Alice and Bob, way out in space where there is no gravity. Bob is stationary in the space station while Alice is flying outside to the right of Bob at a constant speed in one direction. Both astronauts are holding a light clock, and Alice holds hers vertically with the mirror parallel to her direction of travel. Set Alice's speed to $v$ and the time for one tick equal to $t$. Now, relative to Alice, find $t$ according to $v$ and the speed of light, $c$. First, know that the distance the light travels is not 6 meters because Alice is moving. The path of the light happens to form two congruent right triangles with the distance that Alice travels. We can calculate the hypotenuses of these right triangles to get the distance the light travels which turns out to be $2\sqrt{\frac{v^2t^2}{4} + 3^2}$. We also know that the distance is equal to $ct$, setting up the equation: $ct=2\sqrt{\frac{v^2t^2}{4} + 3^2}$. This simplifies down to $t=\frac{6}{\sqrt{c^2-v^2}}$.
